@@ -49,7 +49,7 @@
 #define SW_TAB QK_USER + 3
 #define SW_CTAB QK_USER + 4
 #define SW_BTICK QK_USER + 5
-#define RGBT_NE QK_USER + 6
-#define RGB_DB_NE QK_USER + 7
-#define RGB_IB_NE QK_USER + 8
+// #define RGBT_NE QK_USER + 6
+// #define RGB_DB_NE QK_USER + 7
+// #define RGB_IB_NE QK_USER + 8
 #endif
